@@ -1,4 +1,8 @@
 inoremap jk <esc> 
+
+" Copy/paste from system clipboard
+map <leader>y "+y<CR>
+map <leader>p "+P<CR>
   
 set tabstop=4 shiftwidth=4 smarttab 
 
